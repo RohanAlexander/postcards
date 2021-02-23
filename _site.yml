@@ -3,6 +3,7 @@ title: "mfeo"
 description: |
   mfeo
 output_dir: "docs"
+google_analytics: "263251894"
 navbar:
   right:
     - text: "Home"
