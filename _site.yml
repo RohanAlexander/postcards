@@ -1,5 +1,6 @@
 name: "."
 title: "mfeo"
+google_analytics: "UA-61981092-1"
 description: |
   mfeo
 output_dir: "docs"
